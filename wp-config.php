@@ -81,8 +81,10 @@ $table_prefix  = 'wp_';
  /*Real product*/
 //define('WP_DEBUG', false); 
 
-/*	Debug Environment - Need to Comment all when in Real Product and set WDP_DEBUG as false 
+/*	Debug Environment - Need to Comment all when in Real Product 
+	and set WDP_DEBUG as false 
 	View log under /wp-content/debug.log 	*/
+// TODO: Trung-Need to reset debug mode for real web
 define('WP_DEBUG', true);
 define('WP_DEBUG_DISPLAY', false);
 define('WP_DEBUG_LOG', true);

@@ -1,1 +1,3 @@
 tuyen_web.sql  -> dump data for onepress theme (before insert woocomerce)
+tuyen_web_onepresscustomwithwoo -> dump data after install woo and some product
+tuyen_web_after_live_chat_and_more_products_added -> dump when ready has live chat and more product

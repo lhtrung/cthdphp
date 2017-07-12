@@ -1,0 +1,37 @@
+/*
+Adjust mistake font in home page
+*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+/*
+Adjust font mistake in navigation menu
+*/
+.onepress-menu a {
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+/*
+Adjust wiget tilte sidebar background and color
+*/
+.sidebar .widget .widget-title {
+	background-color:#00e600;
+	padding: 6px 2px 6px 2px;
+	text-align: center;
+	color:#ffffff;
+}
+
+/*
+Adjust wiget link to syn with woo side and normal sidebar
+*/
+.sidebar .widget a {
+	color: #292b2c;
+	font-size: 14px;
+	font-weight:700;
+}
